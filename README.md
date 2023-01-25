@@ -4,3 +4,5 @@ I am a new fullstack software engineer looking to grow my skills in web developm
 
 
 <!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
