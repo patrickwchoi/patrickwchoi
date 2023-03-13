@@ -5,7 +5,7 @@
 I am a fullstack software engineer with a preference towards frontend development and expertise in React-Redux, Ruby on Rails, JavaScript, Python, HTML, and CSS. My skills and experience have been honed through various personal and professional projects, including a Tumblr fullstack clone built with a Rails backend and React-Redux frontend. I am always eager to take on new challenges and am excited to continue growing as a developer.
 
 - 🌱 I’m currently reviewing MERN and DSA
-- 🥅 2022 Goals: Learn more about web3
+- 🥅 2022 Goals: Get a job
 
 ### Connect with me:
 
